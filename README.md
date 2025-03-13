@@ -7,13 +7,14 @@ Soluciona los errores de apt update // apt upgrade y automatiza el upgrade de to
 Pasos a realizar:
 
 Descarga el respositorio de Git
-
+```
 git clone https://github.com/KeepCodingBro/SuperUpgrade
-
+```
 Nos vamos a la carpeta y le damos permisos de ejecución
-
+```
 chmod +x SuperUpgrade.sh
-
+```
 Y lo ejecutamos:
-
+```
 ./SuperUpgrade
+```
