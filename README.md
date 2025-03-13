@@ -16,5 +16,5 @@ chmod +x SuperUpgrade.sh
 ```
 Y lo ejecutamos:
 ```
-./SuperUpgrade
+./SuperUpgrade.sh
 ```
